@@ -9,7 +9,6 @@ g.live.com
 spoprod-a.akamaihd.net
 p.sfx.ms
 oneclient.sfx.ms
-fabric.io
 vortex.data.microsoft.com
 posarprodcssservice.accesscontrol.windows.net
 redemptionservices.accesscontrol.windows.net
