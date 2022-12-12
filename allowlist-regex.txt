@@ -1,0 +1,24 @@
+
+# Microsoft OneDrive
+.*\.onedrive\.com
+.*\.mesh\.com
+.*\.microsoft\.com
+.*\.office\.com
+.*\.officeapps\.live\.com
+.*\.aria\.microsoft\.com
+.*\.servicebus\.windows\.net
+.*\.files\.1drv\.com
+.*\.onedrive\.live\.com
+.*\..*\.onedrive\.live\.com
+.*\.storage\.live\.com
+.*\..*\.storage\.live\.com
+.*\.groups\.office\.live\.com
+.*\.groups\.photos\.live\.com
+.*\.groups\.skydrive\.live\.com
+.*\.docs\.live\.net
+.*\.policies\.live\.net
+.*\.settings\.live\.net
+.*\.livefilestore\.com
+.*\..*\.livefilestore\.com
+.*\.storage\.msn\.com
+.*\..*\.storage\.msn\.com
