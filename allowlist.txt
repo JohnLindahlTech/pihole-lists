@@ -1,5 +1,8 @@
 ipinfo.io
 
+# Twitter links
+t.co
+
 # Microsoft OneDrive
 login.microsoftonline.com
 onedrive.com
