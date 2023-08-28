@@ -33,3 +33,7 @@ settings.live.net
 skyapi.live.net
 snapi.live.net
 storage.msn.com
+
+# Github
+github.com
+github.dev
